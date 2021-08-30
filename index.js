@@ -7,8 +7,7 @@ const bodyParser= require('body-parser')
 
 var path = require('path');
 require('dotenv').config();
-//this one is dublicated in the new express version 
-//const bodyParser  = require('body-parser');
+
 
 
 
